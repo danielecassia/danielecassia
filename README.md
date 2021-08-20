@@ -37,28 +37,15 @@ Here are some ideas to get you started:
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **C# projects**.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*She/Her*](https://pronoun.is/he) 🧔
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*She/Her*](https://pronoun.is/she) 🧔
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 
 <br>
 
-<a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/TheDudeThatCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-
-
-<a href="https://github.com/TheDudeThatCode/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=TheDudeThatCode&theme=dark" />
-</a>
-
-<a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
-</a>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 <br>
 <!--

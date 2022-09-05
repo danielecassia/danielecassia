@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **React, React Native, Node** and **C# projects**.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Ask me* about **why do I think aliens 👽 exist.**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="30px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30px" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="30px" /> I’m *looking to collaborate* on **React, React Native, Node** and **C# projects**.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px" /> *Ask me* about **why do I think aliens 👽 exist.**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="30px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 
 <br>

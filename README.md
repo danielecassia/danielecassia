@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p>
   <em>
-    I am a 4th year undergraduate at <a href="https://https://ufmg.br/"> <b>UFMG</b>, in Information Systems.</a>.  
+    I am a 3rd year undergraduate at <a href="https://https://ufmg.br/"> <b>UFMG</b>, in Information Systems.</a>.  
     A budding <b>Software Developer</b> and a <b>Design Enthusiast</b>, who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 

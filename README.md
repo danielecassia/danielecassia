@@ -68,6 +68,8 @@ Here are some ideas to get you started:
 <br>
 
 
+# Technologies I use the most
+<a href="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 
 
 
